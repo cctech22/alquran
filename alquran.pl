@@ -11,190 +11,129 @@
 $hijau=("\033[1;39m");
           $surah1=("SURAT AL FATIHAH (PEMBUKAAN)");
          $surah2=("SURAT AL BAQARAH (SAPI BETINA)");
-         
         $surah3=("SURAT ALI 'IMRAN (KELUARGA 'IMRAN)");
        $surah4=("SURAT AN NISA' (WANITA)");
-       
       $surah5=("SURAT AL MA'IDAH (HIDANGAN)");
      $surah6=("SURAT AL AN'AM (BINATANG TERNAK)");
-     
     $surah7=("SURAT AL A'RAF  (TEMPAT TERTINGGI)");
    $surah8=("SURAT AL ANFAL (RAMPASAN PERANG)");
-   
   $surah9=("SURAT AT TAUBAH (PENGAMPUNAN)");
  $surah10=("SURAT YUNUS (NABI YUNUS A.S.)");
 $surah11=("SURAT HUD (NABI HUUD A.S.)");
-
 $surah12=("SURAT YUSUF (NABI YUSUF A.S.)");
-          $surah13=("SURAT AR RA'D (GURUH)"
-          
+          $surah13=("SURAT AR RA'D (GURUH)");
           $surah14=("SURAT IBRAHIM (NABI IBRAHIM A.S.)");
          $surah15=("SURAT AL HIJR (DAERAH PEGUNUNGAN)");
         $surah16=("SURAT AN NAHL (LEBAH)");
-        
       $surah17=("SURAT AL ISRAA' (MEMPERJALANKAN DI MALAM HARI)");
      $surah18=("SURAT AL KAHFI (GUA)");
     $surah19=("SURAT MARYAM (MARYAM)");
-    
    $surah20=("SURAT THAHA (THAAHAA)");
   $surah21=("SURAT AL ANBIYA' (KISAH PARA NABI)");
  $surah22=("SURAT AL HAJJ (IBADAH HAJI)");
- 
 $surah23=("SURAT AL MU'MINUN (ORANG MUKMIN)");
 $surah24=("SURAT AN NUR (CAHAYA)");
-
           $surah25=("SURAT AL FURQAAN (PEMBEDA)");
          $surah26=("SURAT ASY SYU'ARA' (PENYAIR)");
-         
         $surah27=("SURAT AN NAML (SEMUT)");
        $surah28=("SURAT AL QASHASH (CERITA)");
-       
       $surah29=("SURAT AL 'ANKABUUT (LABA-LABA)");
      $surah30=("SURAT AR RUUM (BANGSA RUMAWI)");
-     
     $surah31=("SURAT LUQMAN (LUQMAN)");
    $surah32=("SURAT AS SAJDAH (SUJUD)");
-   
   $surah33=("SURAT AL AHZAB (GOLONGAN YANG BERSEKUTU)");
  $surah34=("SURAT SABA (KAUM SABA)");
- 
 $surah35=("SURAT FATHIR (PENCIPTA)");
             $surah36=("SURAT YAASIIN");
-            
        $surah36=("SURAT YAASIIN");
            $surah37=("SURAT ASH SHAFFAT (YANG BERSHAF-SHAF");
-      
       $surah37=("SURAT ASH SHAFFAT (YANG BERSHAF-SHAF");
           $surah38=("SURAT SHAAD");
-     
      $surah38=("SURAT SHAAD");
          $surah39=("SURAT AZ ZUMAR (ROMBONGAN-ROMBONGAN)");
-    
     $surah39=("SURAT AZ ZUMAR (ROMBONGAN-ROMBONGAN)");
         $surah40=("SURAT AL MU'MIN (ORANG YANG BERIMAN)");
-   
    $surah40=("SURAT AL MU'MIN (ORANG YANG BERIMAN)");
        $surah41=("SURAT FUSHSHILAT (YANG DIJELASKAN)");
-  
   $surah41=("SURAT FUSHSHILAT (YANG DIJELASKAN)");
       $surah42=("SURAT ASY SYUURA (MUSYAWARAH)");
- 
  $surah42=("SURAT ASY SYUURA (MUSYAWARAH)");
      $surah43=("SURAT AZ ZUKHRUF (PERHIASAN)");
-
 $surah43=("SURAT AZ ZUKHRUF (PERHIASAN)");
     $surah44=("SURAT AD DUKHAAN (KABUT)");
-    
     $surah44=("SURAT AD DUKHAAN (KABUT)");
    $surah45=("SURAT AL JAATSIYAH (YANG BERLUTUT)");
-   
    $surah45=("SURAT AL JAATSIYAH (YANG BERLUTUT)");
   $surah46=("SURAT AL AHQAAF (BUKIT PASIR)");
-  
   $surah46=("SURAT AL AHQAAF (BUKIT PASIR)");
  $surah47=("SURAT MUHAMMAD (NABI MUHAMMAD SAW");
- 
  $surah47=("SURAT MUHAMMAD (NABI MUHAMMAD SAW)");
 $surah48=("SURAT AL FATH (KEMENANGAN)");
-
          $surah49=("SURAT AL HUJURAAT (KAMAR-KAMAR");
         $surah49=("SURAT AL HUJURAAT (KAMAR-KAMAR)");
-
        $surah50=("SURAT QAAF");
       $surah51=("SURAT ADZ DZAARIYAAT (ANGIN YANG MENERBANGKAN)");
-
      $surah52=("SURAT ATH THUUR (BUKIT)");
     $surah53=("SURAT AN NAJM (BINTANG)");
-
    $surah54=("SURAT AL QAMAR (BULAN)");
   $surah55=("SURAT AR RAHMAAN (YANG MAHA PEMURAH)");
-
  $surah56=("SURAT AL WAAQI'AH (HARI KIAMAT)");
 $surah57=("SURAT AL HADID (BESI)");
-
-          $surah58=("SURAT AL MUJADILAH (WANITA YANG MENGAJUKAN GUGATAN)");
+$surah58=("SURAT AL MUJADILAH (WANITA YANG MENGAJUKAN GUGATAN)");
          $surah59=("SURAT AL HASYR (PENGUSIRAN)");
-
         $surah60=("SURAT AL MUMTAHANAH (WANITA YANG DIUJI)");
        $surah61=("SURAT ASH SHAFF (BARISAN)");
-
       $surah62=("SURAT AL JUMU'AH (HARI JUM'AT)");
      $surah63=("SURAT AL JUMU'AH (HARI JUM'AT)");
-
     $surah64=("SURAT AT TAGHABUN (HARI DITAMPAKKAN KESALAHAN-KESALAHAN)");
    $surah65=("SURAT ATH THALAAQ (TALAK)");
-
   $surah66=("SURAT AT TAHRIM (MENGHARAMKAN)");
  $surah67=("SURAT AL MULK (KERAJAAN)");
-
 $surah68=("SURAT AL QALAM (PENA)");
             $surah69=("SURAT AL HAQQAH (KIAMAT)");
-
            $surah70=("SURAT AL MA'ARIJ (TEMPAT-TEMPAT NAIK)");
           $surah71=("SURAT NUH (NABI NUH A.S)");
-
          $surah72=("SURAT AL JIN (JIN)");
         $surah73=("SURAT AL MUZZAMMIL (ORANG YANG BERSELIMUT)");
-
        $surah74=("SURAT AL MUDDATSTSIR (ORANG YANG BERSELIMUT)");
       $surah75=("SURAT AL QIYAMAH (HARI KIAMAT)");
-
      $surah76=("SURAT AL INSAAN (MANUSIA)");
     $surah77=("SURAT AL MURSALAT (MALAIKAT-MALAIKAT YANG DIUTUS)");
-
    $surah78=("SURAT AN NABA´ (BERITA BESAR)");
   $surah79=("SURAT AN NAAZI´ (MALAIKAT-MALAIKAT YANG MENCABUT)");
-
  $surah80=("SURAT 'ABASA (BERMUKA MASAM)");
 $surah81=("SURAT AT TAKWIR (MENGGULUNG)");
-
              $surah82=("SURAT AL INFITHAR (TERBELAH)");
             $surah83=("SURAT AL MUTHAFFIFIIN (ORANG-ORANG YANG CURANG)");
-
            $surah84=("SURAT AL INSYIQAAQ (TERBELAH)");
           $surah85=("SURAT AL BURUUJ (GUGUSAN BINTANG)");
-
          $surah86=("SURAT ATH THAARIQ (YANG DATANG DI MALAM HARI)");
         $surah87=("SURAT AL A´LAA (YANG PALING TINGGI)");
-
        $surah88=("SURAT AL GHAASYIYAH (HARI KIAMAT)");
       $surah89=("SURAT AL FAJR (FAJAR)");
-
      $surah90=("SURAT AL BALAD (NEGERI)");
     $surah91=("SURAT ASY SYAMS (MATAHARI)");
-
    $surah92=("SURAT AL LAIL (MALAM)");
   $surah93=("SURAT ADH DHUHAA (WAKTU DHUHA)");
-
  $surah94=("SURAT AL INSYIRAH (BUKANKAH KAMI TELAH MELAPANGKAN)");
 $surah95=("SURAT AT TIIN (BUAH TIN)");
-
-             $surah96=("SURAT AL 'ALAQ (SEGUMPAL DARAH)");
-            $surah97=("SURAT AL QADR (KEMULIAAN)");
-
-           $surah98=("SURAT AL BAYYINAH (BUKTI YANG NYATA)");
-          $surah99=("SURAT AL ZALZALAH (GONCANGAN)");
-
-         $surah100=("SURAT AL 'ADIYAT (KUDA PERANG YANG BERLARI KENCANG)");
+            $surah96=("SURAT AL 'ALAQ (SEGUMPAL DARAH)");
+           $surah97=("SURAT AL QADR (KEMULIAAN)");
+          $surah98=("SURAT AL BAYYINAH (BUKTI YANG NYATA)");
+         $surah99=("SURAT AL ZALZALAH (GONCANGAN)");
+        $surah100=("SURAT AL 'ADIYAT (KUDA PERANG YANG BERLARI KENCANG)");
         $surah101=("SURAT AL QARI'AH (HARI KIAMAT)");
-
        $surah102=("SURAT AT TAKATSUR (BERMEGAH-MEGAHAN)");
       $surah103=("SURAT AL 'ASHR (MASA)");
-
      $surah104=("SURAT AL HUMAZAH (PENGUMPAT)");
     $surah105=("SURAT AL FIIL (GAJAH)");
-
    $surah106=("SURAT QURAISY (SUKU QURAISY)");
   $surah107=("SURAT AL MA'UN (BARANG-BARANG YANG BERGUNA)");
-
  $surah108=("SURAT AL KAUTSAR (NIKMAT YANG BANYAK)");
-
 $surah109=("SURAT AL KAFIRUN (ORANG-ORANG KAFIR)");
      $surah110=("SURAT AN NASHR (PERTOLONGAN)");
-
     $surah111=("SURAT AL LAHAB (GEJOLAK API)");
    $surah112=("SURAT AL IKHLAS (MEMURNIKAN KEESAAN ALLAH)");
-
   $surah113=("SURAT AL FALAQ (WAKTU SUBUH)");
  $surah114=("SURAT AN NAAS (MANUSIA)");
        system("clear");
@@ -208,6 +147,7 @@ sleep(1);
         print("$kuning//////////////////////////////////////\n");
        print("$birumd$putih   S U R A H  A L - Q U R A N\n");
       print("\033[1;33m_____________________________________\n$putih");
+      sleep(1);
      print("00$num[0] $hijaumd$surah1\n$putih");
     print("00$num[1] $hijaumd$surah2\n$putih");
    print("00$num[2] $hijaumd$surah3\n$putih");
@@ -261,7 +201,7 @@ print("0$num[40] $hijaumd$surah41\n$putih");
  print("0$num[50] $hijaumd$surah51\n$putih");
 print("0$num[51] $hijaumd$surah52\n$putih");
             print("0$num[52] $hijaumd$surah53\n$putih");
-           print("0$num[53] $hijaumd$surah54\n$putih")
+           print("0$num[53] $hijaumd$surah54\n$putih");
           print("0$num[54] $hijaumd$surah55\n$putih");
          print("0$num[55] $hijaumd$surah56\n$putih");
         print("0$num[56] $hijaumd$surah57\n$putih");
