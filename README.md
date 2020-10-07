@@ -1,2 +1,1 @@
-# hamba-allah
-hamba_allah_cyber_community
+download al-quran termux/linux
